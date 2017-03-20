@@ -1,0 +1,18 @@
+{
+  "name": "if-json",
+  "version": "1.0.0",
+  "description": "Check if string is JSON or not (Support JSON5)",
+  "main": "index.js",
+  "repository": "https://github.com/rohmanhm/if-json.git",
+  "author": "Muhammad Habib Rohman <mhrohman@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json5": "^0.5.1"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2"
+  },
+  "scripts": {
+    "test": "ava --verbose"
+  }
+}
