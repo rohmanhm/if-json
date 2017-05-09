@@ -10,7 +10,7 @@
     "json5": "^0.5.1"
   },
   "devDependencies": {
-    "ava": "^0.18.2"
+    "ava": "^0.19.1"
   },
   "scripts": {
     "test": "ava --verbose"
