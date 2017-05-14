@@ -1,4 +1,6 @@
 # If JSON
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rohmanhm/if-json.svg)](https://greenkeeper.io/)
 Check if string is JSON or not (Support JSON5)
 
 ## How to install
